@@ -30,19 +30,13 @@ The project consists of the following sheets in the Excel workbook:
 
 ## Usage
 
-1. Clone the repository to your local machine:
+1. Open the Excel file "HR_Attrition_Analysis.xlsx" to explore the project.
 
-   ```
-   git clone https://github.com/Fardin-Data/hr-attrition-analysis.git
-   ```
+2. Navigate through the Data, Analysis, and Dashboard sheets to view the cleaned data, analysis, and interactive visualizations.
 
-2. Open the Excel file "HR_Attrition_Analysis.xlsx" to explore the project.
+3. Interact with the dashboard using slicers and filters according to your preferences.
 
-3. Navigate through the Data, Analysis, and Dashboard sheets to view the cleaned data, analysis, and interactive visualizations.
-
-4. Interact with the dashboard using slicers and filters according to your preferences.
-
-5. Gain insights from the analysis and use the findings for strategic HR decision-making.
+4. Gain insights from the analysis and use the findings for strategic HR decision-making.
 
 ## Note
 
