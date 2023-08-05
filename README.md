@@ -2,7 +2,7 @@
 
 # HR Attrition Analysis
 
-![HR Attrition Dashboard]([dashboard_screenshot.png](https://1drv.ms/i/s!AvFy9W5y8TPZlkvuneuo81fPCy5w?e=RKAkPA))
+![HR Attrition Dashboard](https://1drv.ms/i/s!AvFy9W5y8TPZlkvuneuo81fPCy5w?e=RKAkPA)
 
 ## Overview
 
