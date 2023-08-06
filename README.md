@@ -8,7 +8,7 @@
 
 This repository contains an HR attrition analysis and interactive dashboard project built in Microsoft Excel. The project aims to explore and analyze employee attrition data sourced from Kaggle, providing valuable insights to HR professionals and management.
 
-## Key Findings:
+## <span style="color:#EE2868;">Key Findings:</span>
 
 1. Attrition Rate: The overall attrition rate is 16%.
 
@@ -27,7 +27,7 @@ This repository contains an HR attrition analysis and interactive dashboard proj
 8. Training and Attrition: Employees attending fewer training sessions exhibit higher attrition.
 
 
-## Suggestions:
+## <span style="color:#1c9ea4;">Suggestions:</span>
 
 1. **Retention Bonuses:** Offer attractive retention bonuses and rewards for high-performing male employees, creating a strong incentive to stay with the organization and fostering loyalty.
 
