@@ -2,7 +2,7 @@
 
 # HR Attrition Analysis
 
-![Dashboard](https://github.com/Fardin-Data/HR-Attrition-Analysis/assets/137788371/c5732270-e0b8-4cc6-b079-55d680ac658d)
+![Dashboard](https://github.com/Fardin-Data/HR-Attrition-Analysis/assets/137788371/3540d1e6-ed56-44fc-9ca5-cb6e1186d58a)
 
 ## Overview
 
