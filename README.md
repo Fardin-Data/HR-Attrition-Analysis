@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository contains an HR attrition analysis and interactive dashboard project built in Microsoft Excel. The project aims to explore and analyze employee attrition data sourced from Kaggle, providing valuable insights to HR professionals and management.
+This repository contains an HR attrition analysis and interactive dashboard project built in Microsoft Excel. The project aims to explore and analyze employee attrition data, providing valuable insights to HR professionals and management.
 
 ## <span style="color:#EE2868;">Key Findings:</span>
 
