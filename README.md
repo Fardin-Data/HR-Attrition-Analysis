@@ -2,11 +2,16 @@
 
 # HR Attrition Analysis
 
-![Dashboard](https://github.com/Fardin-Data/HR-Attrition-Analysis/assets/137788371/3540d1e6-ed56-44fc-9ca5-cb6e1186d58a)
-
 ## Overview
 
 This repository contains an HR attrition analysis and interactive dashboard project built in Microsoft Excel. The project aims to explore and analyze employee attrition data, providing valuable insights to HR professionals and management.
+
+## Dashboard
+
+![Dashboard](https://github.com/Fardin-Data/HR-Attrition-Analysis/assets/137788371/3540d1e6-ed56-44fc-9ca5-cb6e1186d58a)
+
+- Bookmarks are Utilized in the Dashboard, which is convenient to switch between sheets. 
+- It includes various filters for exploring different scenarios.
 
 ## <span style="color:#EE2868;">Key Findings:</span>
 
@@ -70,20 +75,20 @@ The project consists of the following sheets in the Excel workbook:
 
 4. **In-Depth Insights:** The project delves into HR attrition trends, identifies potential risk areas, and highlights opportunities for employee retention strategies. The visualization of data aids in better decision-making.
 
-## Usage
+## Tech Stack
 
-1. Open the Excel file "HR_Attrition_Analysis.xlsx" to explore the project.
+- Power Query: Used for Data Cleaning, Processing, and Modeling.
+- Excel: Used for Data analysis and Dashboard Making.
 
-2. Navigate through the Data, Analysis, and Dashboard sheets to view the cleaned data, analysis, and interactive visualizations.
+## Data Source
+- [Kaggle](https://www.kaggle.com/datasets/vjchoudhary7/hr-analytics-case-study).
 
-3. Interact with the dashboard using slicers and filters according to your preferences.
 
-4. Gain insights from the analysis and use the findings for strategic HR decision-making.
+## License
+This project is licensed under the MIT License, allowing you to use, modify, and distribute the code and visuals while maintaining the original license terms.
 
-## Note
+For questions or feedback, please contact: fardinkhan.data@gmail.com
 
-- The data used in this project is sourced from Kaggle [https://www.kaggle.com/datasets/vjchoudhary7/hr-analytics-case-study].
-- The project utilizes Microsoft Excel.
-- Feel free to contribute or adapt the project for your own HR analytics needs.
+Enjoy exploring the project!
 
 ---
