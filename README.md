@@ -81,7 +81,7 @@ The project consists of the following sheets in the Excel workbook:
 - Excel: Used for Data analysis and Dashboard Making.
 
 ## Data Source
-- [Kaggle](https://www.kaggle.com/datasets/vjchoudhary7/hr-analytics-case-study).
+- [Kaggle](https://www.kaggle.com/datasets/vjchoudhary7/hr-analytics-case-study)
 
 
 ## License
