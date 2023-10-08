@@ -1,17 +1,41 @@
 # HR Attrition Analysis
 <img src="https://github.com/Fardin-Data/HR-Attrition-Analysis/assets/137788371/256a7874-0730-4c15-ab22-0e3b6f28f3c2" width="1400">
 
-## Overview
+Overview
+In today's competitive business landscape, retaining talented employees is a critical challenge for organizations. High attrition rates not only result in the loss of valuable talent but also have significant financial and operational implications.
 
-This repository contains an HR attrition analysis and interactive dashboard project built in Microsoft Excel. The project aims to explore and analyze employee attrition data, providing valuable insights to HR professionals and management.
+Problem Statement
+The organization is facing a rising attrition rate, with employees leaving the company at an alarming rate. This has raised concerns about the company's ability to retain its workforce and maintain operational stability.
+
+Project Objective
+The primary objective of this project is to analyze the underlying factors contributing to employee attrition and provide actionable insights and suggestions to reduce turnover rates. By understanding the key drivers of attrition, the organization can implement targeted strategies to enhance employee retention and foster a more stable and productive work environment.
+
+## Process
+
+` Data Cleaning and Transformation`
+
+The initial dataset, sourced from Kaggle was distributed across multiple sheets, underwent thorough cleaning. This involved handling null, duplicate, and noisy values to ensure data quality.
+
+`Data Modeling`
+
+Multiple data sheets were merged and processed using Power Query. This step aimed to maintain data integrity and accuracy, setting the foundation for subsequent analysis.
+
+`Multi-Parameter Analysis`
+
+Utilizing pivot tables, an exhaustive analysis was conducted on various factors influencing attrition. These factors included salary adjustments, performance ratings, department-specific attrition rates, and more. This holistic approach provided valuable insights into patterns of employee turnover.
+
+`Interactive Dashboard`
+
+An interactive dashboard was developed, offering users the capability to filter and visualize data seamlessly. Slicers, charts, and graphs were incorporated to empower HR professionals and management with actionable insights for informed decision-making.
+
 
 ## Dashboard
 
-![image](https://github.com/Fardin-Data/HR-Attrition-Analysis/assets/137788371/a315c2d0-0977-4250-b823-8b04ad11a224)
-
-
 - Bookmarks are Utilized in the Dashboard, which is convenient to switch between sheets. 
 - It includes various filters for exploring different scenarios.
+  
+![image](https://github.com/Fardin-Data/HR-Attrition-Analysis/assets/137788371/a315c2d0-0977-4250-b823-8b04ad11a224)
+
 
 ## <span style="color:#EE2868;">Key Findings:</span>
 
@@ -55,25 +79,17 @@ This repository contains an HR attrition analysis and interactive dashboard proj
 By implementing these suggestions and acknowledging the diverse needs of employees, the organization can create a more inclusive and engaged workforce, leading to reduced attrition and increased overall productivity.
 
 
-## Project Structure
+## Files Information
 
-The project consists of the following sheets in the Excel workbook:
+`Result`
+- **HR Attrition Analysis:** Excel Workbook which contains following sheets:
 
-- **Data Sheet:** Contains the cleaned and processed data after performing data cleaning, merging, and transformations using Power Query. The raw data, originally in three separate sheets, has been consolidated and enriched with new columns for analysis purposes.
+- - **Data Sheet:** Contains the cleaned and processed data after performing data cleaning, merging, and transformations using Power Query. The raw data, originally in three separate sheets, has been consolidated and enriched with new columns for analysis purposes.
 
-- **Analysis Sheet:** Contains pivot tables that summarize and visualize key insights from the cleaned data. It presents correlations between employee attrition and various parameters, including salary hikes, performance ratings, department-wise attrition, and other relevant factors impacting attrition.
+- - **Analysis Sheet:** Contains pivot tables that summarize and visualize key insights from the cleaned data. It presents correlations between employee attrition and various parameters, including salary hikes, performance ratings, department-wise attrition, and other relevant factors impacting attrition.
 
-- **Dashboard Sheet:** Hosts the interactive dashboard with dynamic visualizations and slicers. The dashboard utilizes the cleaned data to present key findings and allow users to interactively explore the data.
+- - **Dashboard Sheet:** Hosts the interactive dashboard with dynamic visualizations and slicers. The dashboard utilizes the cleaned data to present key findings and allow users to interactively explore the data.
 
-## Project Highlights
-
-1. **Data Cleaning and Transformation:** The raw data extracted from Kaggle, distributed across multiple sheets, has been cleaned, merged, and processed using Power Query. This ensures data integrity and accuracy for analysis.
-
-2. **Multi-Parameter Analysis:** The analysis sheet contains pivot tables exploring various parameters influencing attrition, such as salary hikes, performance ratings, department-wise attrition, and more. This comprehensive approach provides a deeper understanding of employee churn patterns.
-
-3. **Interactive Dashboard:** The dashboard sheet features an intuitive and interactive interface, allowing users to filter and visualize data through slicers, charts, and graphs. It enables HR professionals and management to gain actionable insights.
-
-4. **In-Depth Insights:** The project delves into HR attrition trends, identifies potential risk areas, and highlights opportunities for employee retention strategies. The visualization of data aids in better decision-making.
 
 ## Tech Stack
 
@@ -86,6 +102,8 @@ The project consists of the following sheets in the Excel workbook:
 
 ## License
 This project is licensed under the MIT License, allowing you to use, modify, and distribute the code and visuals while maintaining the original license terms.
+
+--- 
 
 For questions or feedback, please contact: fardinkhan.data@gmail.com
 
