@@ -79,6 +79,36 @@ An interactive dashboard was developed, offering users the capability to filter 
 By implementing these suggestions and acknowledging the diverse needs of employees, the organization can create a more inclusive and engaged workforce, leading to reduced attrition and increased overall productivity.
 
 
+## Challenges Faced
+
+`Data Integration`
+
+ Merging and integrating data from various sheets posed challenges in maintaining data integrity. It was essential to ensure that the consolidated dataset accurately represented the organization's HR data.
+
+`Diverse Data Parameters`
+
+Analyzing multiple parameters influencing attrition presented a challenge in terms of comprehensiveness. Identifying relevant factors and establishing correlations demanded a thorough investigation.
+
+
+## Learnings 
+
+`Data Quality Importance`
+
+The project reinforced the critical importance of data quality. Clean and accurate data is foundational for meaningful analysis and actionable insights.
+
+`Holistic Analysis`
+
+Conducting a comprehensive analysis by exploring multiple parameters revealed the complexity of attrition factors. It highlighted the need for a holistic approach to address employee turnover.
+
+`Understanding Employee Needs` 
+
+The project emphasized the significance of understanding diverse employee needs and tailoring retention strategies accordingly. One-size-fits-all approaches may not be effective.
+
+`Real-World Application` 
+
+The project demonstrated how data analysis can directly impact organizational decision-making and lead to actionable strategies for addressing critical challenges.
+
+
 ## Files Information
 
 `Result`
