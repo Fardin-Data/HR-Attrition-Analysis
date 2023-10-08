@@ -123,8 +123,8 @@ The project demonstrated how data analysis can directly impact organizational de
 
 ## Tech Stack
 
-- Power Query: Used for Data Cleaning, Processing, and Modeling.
-- Excel: Used for Data analysis and Dashboard Making.
+- `Power Query` Used for Data Cleaning, Processing, and Modeling.
+- `Excel` Used for Data analysis and Dashboard Making.
 
 ## Data Source
 - [Kaggle](https://www.kaggle.com/datasets/vjchoudhary7/hr-analytics-case-study)
