@@ -7,7 +7,8 @@ This repository contains an HR attrition analysis and interactive dashboard proj
 
 ## Dashboard
 
-![Dashboard](https://github.com/Fardin-Data/HR-Attrition-Analysis/assets/137788371/3540d1e6-ed56-44fc-9ca5-cb6e1186d58a)
+![image](https://github.com/Fardin-Data/HR-Attrition-Analysis/assets/137788371/a315c2d0-0977-4250-b823-8b04ad11a224)
+
 
 - Bookmarks are Utilized in the Dashboard, which is convenient to switch between sheets. 
 - It includes various filters for exploring different scenarios.
