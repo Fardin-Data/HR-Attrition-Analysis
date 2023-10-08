@@ -1,13 +1,13 @@
 # HR Attrition Analysis
 <img src="https://github.com/Fardin-Data/HR-Attrition-Analysis/assets/137788371/256a7874-0730-4c15-ab22-0e3b6f28f3c2" width="1400">
 
-Overview
+## Overview
 In today's competitive business landscape, retaining talented employees is a critical challenge for organizations. High attrition rates not only result in the loss of valuable talent but also have significant financial and operational implications.
 
-Problem Statement
+## Problem Statement
 The organization is facing a rising attrition rate, with employees leaving the company at an alarming rate. This has raised concerns about the company's ability to retain its workforce and maintain operational stability.
 
-Project Objective
+## Project Objective
 The primary objective of this project is to analyze the underlying factors contributing to employee attrition and provide actionable insights and suggestions to reduce turnover rates. By understanding the key drivers of attrition, the organization can implement targeted strategies to enhance employee retention and foster a more stable and productive work environment.
 
 ## Process
