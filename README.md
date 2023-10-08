@@ -1,4 +1,5 @@
 # HR Attrition Analysis
+<img src="https://github.com/Fardin-Data/HR-Attrition-Analysis/assets/137788371/256a7874-0730-4c15-ab22-0e3b6f28f3c2" width="1400">
 
 ## Overview
 
